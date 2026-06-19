@@ -20,13 +20,21 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
+  <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <!-- CSS3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -46,11 +54,17 @@
 ## 🔗 Connect with Me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sadia-rahman-niha-066899352?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>&nbsp;
+  <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sr_niha08?igsh=b3prZGs4eW5laXM3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
