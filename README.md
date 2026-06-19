@@ -1,5 +1,5 @@
 # Assalamualaikum 👋, I'm Sadia Rahman Niha
-### Computer Science Undergraduate | Front-End Web Developer & UI Design Enthusiast
+### Computer Science Undergraduate | Web Application Developer & Cyber Security Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srniha08&label=Profile%20views&color=0e75b6&style=flat" alt="srniha08" />
@@ -9,24 +9,32 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Final year B.Sc. in Computer Science and Engineering student at R. P. Shaha University (RPSU)
-- 🔭 **Current Focus:** Building responsive, user-centric web interfaces and refining my UI/UX design skills
-- 🌱 **Learning:** Advanced Frontend Frameworks, Software Engineering methodologies, and modern UI patterns
-- 💬 **Ask me about:** HTML5, CSS3, JavaScript, C/C++, Java, MySQL, and Responsive Web Design
-- 📫 **Reach me at:** srniha08@gmail.com
+- 🎓 **Education:** Final year CSE Undergraduate student
+- 🔭 **Current Focus:** Building secure web applications and mastering backend technologies
+- 🌱 **Learning:** Web Application Penetration Testing, OWASP Top 10, and Ethical Hacking
+- 💬 **Ask me about:** C/C++, Java, Python, Web Development, and Problem Solving
+- 📫 **Reach me at:** srniha08@gmail.com*
 
 ---
 
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -37,8 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compat&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
