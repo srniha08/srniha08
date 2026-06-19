@@ -20,21 +20,13 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <!-- CSS3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -45,7 +37,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compat&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -66,6 +59,5 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
 </p>
