@@ -56,15 +56,15 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sadia-rahman-niha-066899352?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230077B5" alt="LinkedIn" width="40" height="40"/>
   </a>&nbsp;
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/facebook.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://api.iconify.design/entypo-social:facebook-with-circle.svg?color=%231877F2" alt="Facebook" width="40" height="40"/>
   </a>&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/sr_niha08?igsh=b3prZGs4eW5laXM3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulajayprof/github-profile-readme-badges/main/src/badges/socials/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://api.iconify.design/entypo-social:instagram-with-circle.svg?color=%23E4405F" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
