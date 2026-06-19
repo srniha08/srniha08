@@ -66,5 +66,6 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+
 </p>
