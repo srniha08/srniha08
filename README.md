@@ -53,14 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stable Alternative Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
+  <!-- Optimized Stats Card to count private work and all commits -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Niha's GitHub Stats" height="180" />
   <br/>
   <br/>
-  <!-- Stable Alternative Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <!-- Optimized Languages Card including private repos -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css&count_private=true" alt="Top Languages" height="180" />
 </p>
-
 ---
 
 ## 🔗 Connect with Me
