@@ -3,14 +3,9 @@
   <img src="./Banner.jfif" alt="Sadia Rahman Niha Banner" width="100%" />
 </p>
 
-<!-- ANIMATED GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhwMnZ3eXg3MzFiNW56cWxoNWFpOXp0amdxZTF3aTUxaTZyaDg0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5EOYACH9SWWA45b4Bp/giphy.gif" alt="Coding GIF" width="60%" />
-</p>
-
-<!-- GREETING HEADER -->
+<!-- ANIMATED HEADER -->
 <h1 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e1/512.gif" width="35px"> Assalamualaikum, I'm Sadia Rahman Niha 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Assalamualaikum, I'm Sadia Rahman Niha 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9wN2Z4dW85M3pldm9qcms3ZXRhdWphYmN6M2ZidmR6cHpsZmxpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45px">
 </h1>
 
