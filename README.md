@@ -1,4 +1,14 @@
-# Assalamualaikum 👋, I'm Sadia Rahman Niha
+<!-- CUSTOM BANNER -->
+<p align="center">
+  <img src="./Banner.jfif" alt="Sadia Rahman Niha Banner" width="100%" />
+</p>
+
+<!-- ANIMATED GREETING HEADER -->
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Assalamualaikum, I'm Sadia Rahman Niha 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9wN2Z4dW85M3pldm9qcms3ZXRhdWphYmN6M2ZidmR6cHpsZmxpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45px">
+</h1>
+
 ### Computer Science Undergraduate | Front-End Web Developer & UI Design Enthusiast
 
 <p align="left">
@@ -43,10 +53,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -73,5 +83,5 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
 </p>
