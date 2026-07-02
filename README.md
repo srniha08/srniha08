@@ -6,7 +6,7 @@
 <!-- ANIMATED HEADER -->
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Assalamualaikum, I'm Sadia Rahman Niha 
-  <img src="(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amVtdm50emlnYWpweXk0dWZ5eXF1aDNrbzR2c2x6cWc1MzNrZmRjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbIavlMZE7TkcVriMM/giphy.gif)">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amVtdm50emlnYWpweXk0dWZ5eXF1aDNrbzR2c2x6cWc1MzNrZmRjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbIavlMZE7TkcVriMM/giphy.gif" width="45px">
 </h1>
 
 ### Computer Science Undergraduate | Front-End Web Developer & UI Design Enthusiast
