@@ -53,10 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
+  <!-- Stable Alternative Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true" alt="Niha's GitHub Stats" height="180" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <!-- Stable Alternative Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
