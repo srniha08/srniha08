@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=srniha08&label=Profile%20Views&color=0e75b6&style=flat" alt="srniha08" />
   &nbsp;
   <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0078D4?style=flat&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0078D4?style=flat&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -28,7 +28,14 @@
 - 🔭 **Current Focus:** Crafting responsive, pixel-perfect, user-centric web applications and refining front-end engineering architecture.
 - 🌱 **Continuous Learning:** Advanced Front-End Frameworks, Software Engineering Methodologies, and Modern Web UI Patterns.
 - ✈️ **Off-Duty Mode:** When I am not debugging code or aligning layout pixels, I am usually exploring new places—essentially running an infinite `while(alive) { travel(); }` loop to clear my mental cache!
-- 📫 **Reach me at:** [srniha08@gmail.com](mailto:srniha08@gmail.com) | [Portfolio Website](https://srniha08.github.io/i-me-myself/)
+- 📫 **Reach me at:** 
+  <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
+    <img src="https://api.iconify.design/entypo-social:globe.svg?color=%230078D4" alt="Portfolio" width="22" height="22" valign="middle"/>
+  </a>
+  &nbsp;
+  <a href="mailto:srniha08@gmail.com">
+    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="22" height="22" valign="middle"/>
+  </a>
 
 ---
 
@@ -52,39 +59,31 @@
 
 ## 🛠 Languages and Tools
 
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-</p>
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="22" height="22" valign="middle"/> **HTML5**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="22" height="22" valign="middle"/> **CSS3**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="22" height="22" valign="middle"/> **JavaScript**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="22" height="22" valign="middle"/> **C**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="22" height="22" valign="middle"/> **C++**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="22" height="22" valign="middle"/> **Java**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="22" height="22" valign="middle"/> **MySQL**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="22" height="22" valign="middle"/> **VS Code**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="22" height="22" valign="middle"/> **Git**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeblocks/codeblocks-original.svg" alt="codeblocks" width="22" height="22" valign="middle"/> **Code::Blocks**
 
 ---
 
 ## 🚀 Key Projects
 
 <details open>
-<summary><b>🍔 KacchiKhacchi — Responsive Food Ordering Platform</b></summary>
+<summary><b>🍽️ KacchiKhacchi — Responsive Food Ordering Platform</b></summary>
 <br/>
 <blockquote>
 <b>Tech Stack:</b> HTML5, CSS3, JavaScript, UI/UX Design<br/>
 <b>Overview:</b> Conceptualized and built a comprehensive food ordering web application inspired by local commercial enterprises, featuring dynamic menus, customized cart operations, and an intuitive user flow.
 <br/><br/>
-🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+<a href="https://github.com/srniha08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+</a>
 </blockquote>
 </details>
 
@@ -95,7 +94,9 @@
 <b>Tech Stack:</b> HTML5, CSS3, JavaScript<br/>
 <b>Overview:</b> Engineered a dedicated productivity application enabling candidates to log, organize, and track real-time job application pipelines through a clean, status-driven interface.
 <br/><br/>
-🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+<a href="https://github.com/srniha08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+</a>
 </blockquote>
 </details>
 
@@ -106,7 +107,9 @@
 <b>Tech Stack:</b> HTML5, CSS3, JavaScript<br/>
 <b>Overview:</b> Developed a functional web portal focused on structured data handling, full CRUD workflows, modal dialogs, and straightforward user interactions.
 <br/><br/>
-🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+<a href="https://github.com/srniha08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+</a>
 </blockquote>
 </details>
 
@@ -117,7 +120,9 @@
 <b>Tech Stack:</b> C++, OpenGL, Computer Graphics<br/>
 <b>Overview:</b> Created an interactive 2D computer graphics simulation modeling a traditional cattle market through custom shape rendering, procedural object animations, and event handling.
 <br/><br/>
-🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+<a href="https://github.com/srniha08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+</a>
 </blockquote>
 </details>
 
@@ -144,7 +149,7 @@
   </a>&nbsp;
   <!-- Email -->
   <a href="mailto:srniha08@gmail.com">
-    <img src="https://api.iconify.design/entypo-social:mail.svg?color=%23EA4335" alt="Email" width="40" height="40"/>
+    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>&nbsp;
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
