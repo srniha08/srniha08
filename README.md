@@ -34,7 +34,7 @@
   </a>
   &nbsp;
   <a href="mailto:srniha08@gmail.com">
-    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="22" height="22" valign="middle"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png" alt="Gmail" width="22" height="18" valign="middle"/>
   </a>
 
 ---
@@ -149,7 +149,7 @@
   </a>&nbsp;
   <!-- Gmail -->
   <a href="mailto:srniha08@gmail.com">
-    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png" alt="Gmail" width="35" height="28"/>
   </a>&nbsp;
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
