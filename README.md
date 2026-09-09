@@ -48,6 +48,16 @@
 
 ---
 
+### 🏃‍♀️ Journey Towards Success
+
+<p align="center">
+  <b>Continuously running, coding, and evolving...</b>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Running Towards Success Progress Animation" />
+</p>
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 **Languages & Web Development**
@@ -83,12 +93,7 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" height="175" alt="Top Languages" />
-</p>
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
