@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <b>Front-End & Full-Stack Developer | Software Development Intern @ Leo Tech BD | CSE Undergraduate @ RPSU</b>
+  <b>Front-End & Full-Stack Developer | Software Development Intern @ Leo Tech BD | CSE @ RPSU</b>
 </p>
 
 <p align="center">
@@ -31,15 +31,15 @@
 
 ---
 
-### ⚡ Professional Briefing
+### ⚡ Quick Terminal Briefing
 
 ```bash
-$ niha --status
-> Final-Year CSE Student @ R. P. Shaha University (CGPA: 3.00/4.00)
+$ niha --whoami
+> Final-year CSE Student @ R. P. Shaha University (CGPA: 3.00/4.00)
 > Software Development Intern @ Leo Tech BD
 
-$ niha --focus
-> Building intuitive, user-centric web applications and robust full-stack workflows.
+$ niha --passions
+> Crafting pixel-perfect, responsive web interfaces & building full-stack workflows
 
 $ niha --off-duty
-> Executing a infinite loop: while(alive) { travel(); } — clearing cache and exploring new horizons!
+> Running a real-life while(alive) { travel(); } loop to explore new places and clear cache!
