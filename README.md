@@ -3,43 +3,155 @@
   <img src="./Banner.jfif" alt="Sadia Rahman Niha Banner" width="100%" />
 </p>
 
-<!-- HEADER WITH ANIMATED GIF -->
-<h1 align="center">
+<!-- ANIMATED HEADER -->
+<h1 align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Assalamu Alaikum, I'm Sadia Rahman Niha 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amVtdm50emlnYWpweXk0dWZ5eXF1aDNrbzR2c2x6cWc1MzNrZmRjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbIavlMZE7TkcVriMM/giphy.gif" width="45px">
 </h1>
 
-<p align="center">
-  <b>Front-End & Full-Stack Developer | Software Development Intern @ Leo Tech BD | CSE @ RPSU</b>
-</p>
+### Front-End & Full-Stack Developer | Software Development Intern @ Leo Tech BD | CSE Undergraduate @ RPSU
 
-<p align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=srniha08&label=Profile%20Views&color=0e75b6&style=flat" alt="srniha08" />
+  &nbsp;
   <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0078D4?style=flat&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/sadia-rahman-niha-066899352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:srniha08@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srniha08&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### ⚡ Quick Terminal Briefing
+## 🚀 About Me
 
-```bash
-$ niha --whoami
-> Final-year CSE Student @ R. P. Shaha University (CGPA: 3.00/4.00)
-> Software Development Intern @ Leo Tech BD
+- 🎓 **Academic Status:** Final-year B.Sc. in Computer Science & Engineering student at **R. P. Shaha University (RPSU)** *(CGPA: 3.00/4.00)*.
+- 💼 **Industry Experience:** Software Development Intern at **Leo Tech BD** — participating in real-world software workflows, client requirement analysis, and business-driven solutions.
+- 🔭 **Current Focus:** Crafting responsive, pixel-perfect, user-centric web applications and refining front-end engineering architecture.
+- 🌱 **Continuous Learning:** Advanced Front-End Frameworks, Software Engineering Methodologies, and Modern Web UI Patterns.
+- ✈️ **Off-Duty Mode:** When I am not debugging code or aligning layout pixels, I am usually exploring new places—essentially running an infinite `while(alive) { travel(); }` loop to clear my mental cache!
+- 📫 **Reach me at:** [srniha08@gmail.com](mailto:srniha08@gmail.com) | [Portfolio Website](https://srniha08.github.io/i-me-myself/)
 
-$ niha --passions
-> Crafting pixel-perfect, responsive web interfaces & building full-stack workflows
+---
 
-$ niha --off-duty
-> Running a real-life while(alive) { travel(); } loop to explore new places and clear cache!
+## 💡 Why Work With Me?
+
+- **Professional Practice:** Hands-on experience at Leo Tech BD collaborating within team structures, understanding client expectations, and delivering structured project tasks.
+- **Detail-Oriented Engineering:** Deep appreciation for clean UI design, accessible layout structures, and high-performance front-end code.
+- **Rapid Adaptability:** Quick to pick up new technologies, framework abstractions, and development tools to solve complex technical challenges.
+
+---
+
+## 🏃‍♀️ Journey Towards Success
+
+<p align="center">
+  <b>Continuously writing clean code, learning new concepts, and striving for professional growth!</b>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Running Towards Success Progress Animation" />
+</p>
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+## 🚀 Key Projects
+
+<details open>
+<summary><b>🍔 KacchiKhacchi — Responsive Food Ordering Platform</b></summary>
+<br/>
+<blockquote>
+<b>Tech Stack:</b> HTML5, CSS3, JavaScript, UI/UX Design<br/>
+<b>Overview:</b> Conceptualized and built a comprehensive food ordering web application inspired by local commercial enterprises, featuring dynamic menus, customized cart operations, and an intuitive user flow.
+<br/><br/>
+🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+</blockquote>
+</details>
+
+<details open>
+<summary><b>📋 Jobly — Job Application Tracker</b></summary>
+<br/>
+<blockquote>
+<b>Tech Stack:</b> HTML5, CSS3, JavaScript<br/>
+<b>Overview:</b> Engineered a dedicated productivity application enabling candidates to log, organize, and track real-time job application pipelines through a clean, status-driven interface.
+<br/><br/>
+🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+</blockquote>
+</details>
+
+<details>
+<summary><b>📚 BookManagement System — Dynamic Data Platform</b></summary>
+<br/>
+<blockquote>
+<b>Tech Stack:</b> HTML5, CSS3, JavaScript<br/>
+<b>Overview:</b> Developed a functional web portal focused on structured data handling, full CRUD workflows, modal dialogs, and straightforward user interactions.
+<br/><br/>
+🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+</blockquote>
+</details>
+
+<details>
+<summary><b>🐂 Gorur Haat Simulation — Interactive 2D Graphics</b></summary>
+<br/>
+<blockquote>
+<b>Tech Stack:</b> C++, OpenGL, Computer Graphics<br/>
+<b>Overview:</b> Created an interactive 2D computer graphics simulation modeling a traditional cattle market through custom shape rendering, procedural object animations, and event handling.
+<br/><br/>
+🔗 <b><a href="https://github.com/srniha08">View Source Code on GitHub</a></b>
+</blockquote>
+</details>
+
+---
+
+## 🔥 Development Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=srniha08&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <!-- Portfolio -->
+  <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
+    <img src="https://api.iconify.design/entypo-social:globe.svg?color=%230078D4" alt="Portfolio" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sadia-rahman-niha-066899352" target="_blank">
+    <img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230077B5" alt="LinkedIn" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Email -->
+  <a href="mailto:srniha08@gmail.com">
+    <img src="https://api.iconify.design/entypo-social:mail.svg?color=%23EA4335" alt="Email" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
+    <img src="https://api.iconify.design/entypo-social:facebook-with-circle.svg?color=%231877F2" alt="Facebook" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sr_niha08" target="_blank">
+    <img src="https://api.iconify.design/entypo-social:instagram-with-circle.svg?color=%23E4405F" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
