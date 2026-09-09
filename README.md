@@ -1,9 +1,12 @@
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="./Banner.jfif" alt="Sadia Rahman Niha Banner" width="100%" />
 </p>
 
+<!-- GREETING & TITLE -->
 <h1 align="center">
-  👋 Assalamu Alaikum, I'm Sadia Rahman Niha
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Assalamu Alaikum, I'm Sadia Rahman Niha 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amVtdm50emlnYWpweXk0dWZ5eXF1aDNrbzR2c2x6cWc1MzNrZmRjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbIavlMZE7TkcVriMM/giphy.gif" width="45px">
 </h1>
 
 <h3 align="center">
@@ -30,10 +33,18 @@
 
 ### ⚡ About Me
 
-- [cite_start]🛠 **Current Role:** Software Development Intern at **Leo Tech BD**  [cite_start]— bridging business requirements with clean, scalable code[cite: 10, 16].
-- 🎓 **Academic Status:** Final-year B.Sc. in Computer Science & Engineering at **R. [cite_start]P. Shaha University** (CGPA: 3.00/4.00)[cite: 8, 39, 41, 42].
-- [cite_start]🎯 **Core Focus:** Building responsive, user-centered web applications and exploring modern front-end frameworks[cite: 9, 10].
+- 🛠 **Current Role:** Software Development Intern at **Leo Tech BD** — bridging business requirements with clean, scalable code.
+- 🎓 **Academic Status:** Final-year B.Sc. in Computer Science & Engineering at **R. P. Shaha University** (CGPA: 3.00/4.00).
+- 🎯 **Core Focus:** Building responsive, user-centered web applications and exploring modern front-end frameworks.
 - ✈️ **Off-Duty Mode:** When I'm not debugging or layout-shifting, I'm usually out exploring new places—basically running a real-life `while(alive) { travel(); }` loop to clear my cache!
+
+---
+
+### 💡 Why Hire Me?
+
+- **Industry Experience:** Currently interning at Leo Tech BD, collaborating on workflows, requirement gathering, and client-centric solutions.
+- **Pixel-Perfect Execution:** Strong blend of UI design aesthetic and clean, responsive code.
+- **Fast Learner & Adaptable:** Quick to pick up new tools, frameworks, and software engineering methodologies.
 
 ---
 
@@ -65,18 +76,18 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| [cite_start]**[KacchiKhacchi](https://github.com/srniha08)** [cite: 19, 20] | [cite_start]HTML5, CSS3, JS, UI/UX [cite: 20] | [cite_start]Responsive food ordering platform for a local business with cart management and seamless ordering flow[cite: 19, 21]. |
-| [cite_start]**[Jobly](https://github.com/srniha08)** [cite: 22, 23] | [cite_start]HTML5, CSS3, JavaScript [cite: 23] | [cite_start]Productivity dashboard to organize and track real-time job applications with status indicators[cite: 24]. |
-| [cite_start]**[BookManagement System](https://github.com/srniha08)** [cite: 25, 26] | [cite_start]HTML5, CSS3, JavaScript [cite: 26] | [cite_start]Full CRUD interface centered on structured data management and intuitive user interactions[cite: 27]. |
-| [cite_start]**[Gorur Haat Simulation](https://github.com/srniha08)** [cite: 28, 29] | [cite_start]C++, OpenGL [cite: 29] | [cite_start]Interactive 2D computer graphics simulation of a cattle market featuring animations and event handling[cite: 30]. |
+| **[KacchiKhacchi](https://github.com/srniha08)** | HTML5, CSS3, JS, UI/UX | Responsive food ordering platform for a local business with cart management and seamless ordering flow. |
+| **[Jobly](https://github.com/srniha08)** | HTML5, CSS3, JavaScript | Productivity dashboard to organize and track real-time job applications with status indicators. |
+| **[BookManagement System](https://github.com/srniha08)** | HTML5, CSS3, JavaScript | Full CRUD interface centered on structured data management and intuitive user interactions. |
+| **[Gorur Haat Simulation](https://github.com/srniha08)** | C++, OpenGL | Interactive 2D computer graphics simulation of a cattle market featuring animations and event handling. |
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css&count_private=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srniha08&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srniha08&layout=compact&theme=tokyonight&hide=html,css" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
