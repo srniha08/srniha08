@@ -30,11 +30,11 @@
 - ✈️ **Off-Duty Mode:** When I am not debugging code or aligning layout pixels, I am usually exploring new places—essentially running an infinite `while(alive) { travel(); }` loop to clear my mental cache!
 - 📫 **Reach me at:** 
   <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="22" height="22" valign="middle"/>
+    <img src="https://api.iconify.design/bx:user.svg?color=%23000000" alt="Portfolio" width="22" height="22" valign="middle"/>
   </a>
   &nbsp;
   <a href="mailto:srniha08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="22" valign="middle"/>
+    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="22" height="22" valign="middle"/>
   </a>
 
 ---
@@ -68,7 +68,7 @@
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="22" height="22" valign="middle"/> **MySQL**
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="22" height="22" valign="middle"/> **VS Code**
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="22" height="22" valign="middle"/> **Git**
-* <img src="https://img.shields.io/badge/Code::Blocks-000000?style=flat&logo=codeblocks&logoColor=white" alt="codeblocks" height="22" valign="middle"/> **Code::Blocks**
+* <img src="https://api.iconify.design/simple-icons:codeblocks.svg?color=%23339933" alt="codeblocks" width="22" height="22" valign="middle"/> **Code::Blocks**
 
 ---
 
@@ -139,17 +139,17 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <!-- Portfolio -->
+  <!-- Portfolio / User Icon -->
   <a href="https://srniha08.github.io/i-me-myself/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="35" height="35"/>
+    <img src="https://api.iconify.design/bx:user.svg?color=%23000000" alt="Portfolio" width="35" height="35"/>
   </a>&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sadia-rahman-niha-066899352" target="_blank">
     <img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230077B5" alt="LinkedIn" width="35" height="35"/>
   </a>&nbsp;
-  <!-- Email -->
+  <!-- Gmail -->
   <a href="mailto:srniha08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+    <img src="https://api.iconify.design/logos:gmail.svg" alt="Gmail" width="35" height="35"/>
   </a>&nbsp;
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1Yv6wawLqR/" target="_blank">
